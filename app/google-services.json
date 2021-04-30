@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "993364728986",
+    "project_id": "quizbird-5676c",
+    "storage_bucket": "quizbird-5676c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993364728986:android:ecc5390b7cef678ffd1323",
+        "android_client_info": {
+          "package_name": "com.moon.quizbird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993364728986-l9t7iv6igm0s643j12hqc1boub7h76qi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moon.quizbird",
+            "certificate_hash": "ab2e547f57cbb4215b27ee18d118f08d3779f506"
+          }
+        },
+        {
+          "client_id": "993364728986-e2dce7ndof6pllrr1rutln5cucjaraps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM501NdNrLkT1EPxc3CMEmH0Dfx5xObN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993364728986-e2dce7ndof6pllrr1rutln5cucjaraps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
